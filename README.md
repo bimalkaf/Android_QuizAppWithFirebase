@@ -7,9 +7,9 @@
 
 
 
-#HOMEPAFE
-![Screenshot_1702824101](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/becf6e0f-5292-4179-8982-4ae13dc44c28)
+#HOMEPAGE
+![Screenshot_1702824083](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/ff09436c-64a3-42e4-a589-0d3630e081af)
+
 
 #QUIZ PAGE
-
-![Screenshot_1702824083](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/ff09436c-64a3-42e4-a589-0d3630e081af)
+![Screenshot_1702824101](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/becf6e0f-5292-4179-8982-4ae13dc44c28)
