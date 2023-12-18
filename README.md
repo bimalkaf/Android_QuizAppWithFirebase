@@ -8,8 +8,10 @@
 
 
 #HOMEPAGE
-![Screenshot_1702824083](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/ff09436c-64a3-42e4-a589-0d3630e081af)
+![Screenshot 2023-12-18 at 14 24 56](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/9986de9f-5cec-4ca0-8d13-962c11db2a5e)
+
 
 
 #QUIZ PAGE
-![Screenshot_1702824101](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/becf6e0f-5292-4179-8982-4ae13dc44c28)
+
+![Screenshot 2023-12-18 at 14 25 14](https://github.com/bimalkaf/Android_QuizAppWithFirebase/assets/60041910/d22f0d62-83ba-42a9-a7c3-4c19bd1e183a)
