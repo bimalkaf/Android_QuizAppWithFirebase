@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907780472851",
+    "project_id": "quizonline-a7bef",
+    "storage_bucket": "quizonline-a7bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907780472851:android:0f9a32062350c89f71ffe6",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc3TbxKkuUfZLI0K95uBobhXh7HrAmNXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
